@@ -13,6 +13,6 @@
 - ./allureReport.sh
 
 **Documentación:**
-- Link para ver la documentación oficial de nunit: https://docs.nunit.org/articles/nunit/intro.html
-- Link para ver documentación en GitHub de WebDriverManager: https://github.com/rosolko/WebDriverManager.Net#info
-- Link para ver documentación oficial de allure: https://docs.qameta.io/allure/
+- https://docs.nunit.org/articles/nunit/intro.html
+- https://github.com/rosolko/WebDriverManager.Net#info
+- https://docs.qameta.io/allure/
