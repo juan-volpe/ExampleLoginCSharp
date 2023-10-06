@@ -1,0 +1,8 @@
+App/*
+bin
+obj
+TestResults
+reports
+lib
+.vscode
+allure-*
